@@ -2,6 +2,39 @@
   text-align: center;
 }
 
+.Header {
+  display: flex;
+  color: white;
+  background-color: black;
+  justify-content: center;
+
+}
+
+.Stocks {
+  display: flex;
+  color: white;
+  background-color: black;
+  justify-content: center;
+}
+
+.Symbol {
+  display: flex;
+}
+
+.CompanyName {
+  display: flex;
+  color: gray;
+}
+
+.LatestPrice {
+  display: flex;
+}
+
+.ChangePercent {
+  display: flex;
+  background-color: green;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
